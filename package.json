@@ -1,0 +1,25 @@
+{
+  "name": "workflow-module-ass-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamoudBalawi/workflow-module-ass-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamoudBalawi/workflow-module-ass-2/issues"
+  },
+  "homepage": "https://github.com/HamoudBalawi/workflow-module-ass-2#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
